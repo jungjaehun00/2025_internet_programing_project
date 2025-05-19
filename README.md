@@ -1,2 +1,3 @@
 ### 연습
-text for test
+
+https://github.com/jungjaehun00/2025_internet_programing_project.git
